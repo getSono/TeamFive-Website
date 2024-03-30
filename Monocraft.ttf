@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Push Up - Home</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:500&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/09937baa99.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <header>
+            <a class="logo" href="/"><img src="images/logo.png" alt="logo" height="64px"></a>
+            <nav>
+                <ul class="nav__links">
+                    <li><a href="#"><i class="fa-solid fa-question fa-shake fa-2xl"></i></a></li>
+                    <li><a href="/entons"<i class="fa-solid fa-house"></i> Entons</a></li>
+                    <li><a href="AboutMe.html">About</a></li>
+                </ul>
+            </nav>
+            <a class="cta" href="malito:julianwolf2013@outlook.de">Contact</a>
+            <p class="menu cta">Menu</p>
+        </header>
+        <div id="mobile__menu" class="overlay">
+            <a class="close">&times;</a>
+            <div class="overlay__content">
+                <a href="#"><i class="fa-solid fa-question fa-shake fa-2xl"></i></a>
+                <a href="/entons"><i class="fa-regular fa-house"></i> Die Entons</i></a>
+                <a href="AboutMe.html">About</a>
+            </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1 style="text-align: center;">Push Up</h1>
+        <h3 style="text-align: center;">Wer oder was sind wir?</h3>
+        <p style="text-align: center;">Push Up ist ein kostenloses Selfcode-WebHosting Projekt. Hole dir jetzt deine kostenlose Website!</p>
+        <script type="text/javascript" src="mobile.js"></script>
+    </body>
+</html>
